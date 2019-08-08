@@ -6,7 +6,7 @@
 
 2. Download shadowsocksR client 
 
-   download [ShadowsocksX-NG-R8.rar](https://github.com/MisterRaindrop/across/blob/master/shadowsocksR client/Mac OS/ShadowsocksX-NG-R8.rar)
+   download [ShadowsocksX-NG-R8.rar]
 
 3. Config
 
