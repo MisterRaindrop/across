@@ -2,7 +2,7 @@
 
 1. Install shadowsocksR server
 
-   wget --no-check-certificatehttps://raw.githubusercontent.com/MisterRaindrop/across/master/shadowsocksR.sh && chmod +x [shadowsocksR.sh](http://shadowsocksr.sh/)
+   wget --no-check-certificate https://raw.githubusercontent.com/MisterRaindrop/across/master/shadowsocksR.sh && chmod +x [shadowsocksR.sh](http://shadowsocksr.sh/)
 
 2. Download shadowsocksR client 
 
